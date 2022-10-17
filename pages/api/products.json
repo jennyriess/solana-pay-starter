@@ -21,5 +21,12 @@
     "price": "0.01",
     "image_url": "",
     "description": ""
+  },
+  {
+    "id": 4,
+    "name": "",
+    "price": "",
+    "image_url": "",
+    "description": ""
   }
 ]
